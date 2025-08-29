@@ -1,2 +1,2 @@
 # YiorZhe
-A personal website of mine build using Astro framework.
+A copy of my main personal website build with vanilla HTML and CSS
